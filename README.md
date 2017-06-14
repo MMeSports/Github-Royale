@@ -1,2 +1,2 @@
 # Github-Royale
-React Project with the help of courses.reactjs free tutorial
+React Project with the help of courses.reactjs
